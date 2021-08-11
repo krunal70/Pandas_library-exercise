@@ -1,0 +1,8 @@
+1. average marks of each subject for computer dept. in each semester
+
+2. for vgec college, find out max mark of each subject in each semester
+
+3. find out average marks of each semester in each subject
+
+4. find out average marks of each college semester wise.
+
